@@ -1,3 +1,9 @@
+> ⚠️ **已退役（2026-09-07）**：本 fork 相对上游源码零改动，功能已由同目录的 **Content Studio**
+> （`obsidian-wechat-converter`，其 `rednote/` 是本插件的 TypeScript 移植）完整承接；分发模块
+> （MediaCrawlerPro-Python `red_writer.py`）也不再读取本插件的主题文件。vault 中已卸载，
+> 卸载前的 `data.json` 存于 `docs/vault-data.json.retired-2026-09-07`（11 套内置主题、无自定义主题）。
+> 仓库仅作历史参考保留。
+
 # Note to RED
 ![downloads](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=downloads&query=%24%5B%22note-to-red%22%5D.downloads&url=https%3A%2F%2Fraw.githubusercontent.com%2Fobsidianmd%2Fobsidian-releases%2Fmaster%2Fcommunity-plugin-stats.json&style=flat) ![version](https://img.shields.io/github/v/tag/Yeban8090/note-to-red?color=blue&label=version&style=flat) ![license](https://img.shields.io/badge/license-MIT-green) [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-支持作者-yellow)](#支持作者)
 
